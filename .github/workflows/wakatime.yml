@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
