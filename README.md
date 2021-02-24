@@ -6,7 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java       3 hrs 25 mins   ████████████████████████░   95.65 % 
-Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Java       2 hrs 59 mins   ███████████████████████▓░   95.06 % 
+Markdown   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
 <!--END_SECTION:waka-->
