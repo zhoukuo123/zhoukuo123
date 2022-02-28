@@ -5,7 +5,10 @@
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Java   10 hrs 56 mins  █████████████████████████   99.94 % 
+Java   10 hrs 56 mins  █████████████████████████   99.94 %
+SQL    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
+
 <!--END_SECTION:waka-->
