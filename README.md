@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java         29 mins         ██████████████████████▒░░   89.41 %
-Lua          3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
